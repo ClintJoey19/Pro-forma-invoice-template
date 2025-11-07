@@ -2,3 +2,7 @@
 .snapshots
 .vscode
 app.json
+
+*.app
+*.rdlc
+*.rdl
